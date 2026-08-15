@@ -1,0 +1,26 @@
+{
+  "identity": {
+    "language": {
+      "value": "Hindi",
+      "updated": "2026-08-15"
+    },
+    "education": {
+      "value": "BCA in Software Development",
+      "updated": "2026-08-14"
+    },
+    "name": {
+      "value": "Shreyas",
+      "updated": "2026-08-14"
+    }
+  },
+  "preferences": {},
+  "projects": {
+    "college_project_jarvis": {
+      "value": "JARVIS is the subject of my college black book project",
+      "updated": "2026-08-14"
+    }
+  },
+  "relationships": {},
+  "wishes": {},
+  "notes": {}
+}
